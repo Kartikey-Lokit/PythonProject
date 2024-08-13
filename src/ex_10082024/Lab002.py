@@ -1,0 +1,1 @@
+print("Kartiky","Vijaykumar","Mate",)
