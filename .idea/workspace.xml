@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f16ee70-2688-4a99-a561-cbe37005d9f8" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab028.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab026.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Lab026.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +75,7 @@
     "Python.Lab024.executor": "Run",
     "Python.Lab025.executor": "Run",
     "Python.Lab026.executor": "Run",
+    "Python.Lab027.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -219,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725091198683</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1725434419460</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725434419460</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
