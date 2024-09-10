@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f16ee70-2688-4a99-a561-cbe37005d9f8" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab032.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_20082024/Lab028.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20082024/Lab028.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20082024/Lab031.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20082024/Lab031.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20082024/lab030.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20082024/lab030.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,9 @@
     &quot;accountId&quot;: &quot;878ed84b-bc6f-4655-8b56-321beaf39df2&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -80,11 +83,29 @@
     "Python.Lab028.executor": "Run",
     "Python.Lab029.executor": "Run",
     "Python.Lab031.executor": "Run",
+    "Python.Lab032.executor": "Run",
     "Python.lab030.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="QodanaHighlightedReportService">
+    <option name="localRunNotPublishedPersistedInfo">
+      <LocalReportPersistedInfo>
+        <option name="path" value="C:\Users\KARTIK~1\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
+        <option name="reportGuid" value="a3158490-21d8-4ddb-a3ce-0ca7e3dd5b8f" />
+        <option name="reportName" value="pythonProject/qodana/2024-09-10" />
+      </LocalReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\KARTIK~1\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="a3158490-21d8-4ddb-a3ce-0ca7e3dd5b8f" reportId="pythonProject/qodana/2024-09-10" />
+    </option>
+  </component>
   <component name="RunManager">
     <configuration name="Lab003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -242,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725550641210</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1725896573403</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725896573403</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
