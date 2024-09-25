@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f16ee70-2688-4a99-a561-cbe37005d9f8" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab040.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,16 +88,13 @@
     "Python.Lab036.executor": "Run",
     "Python.Lab037.executor": "Run",
     "Python.Lab038.executor": "Run",
+    "Python.Lab039.executor": "Run",
+    "Python.Lab040.executor": "Run",
     "Python.lab030.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="QodanaReportsService">
-    <option name="descriptions">
-      <ReportDescription localRun="true" path="C:\Users\KARTIK~1\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="a3158490-21d8-4ddb-a3ce-0ca7e3dd5b8f" reportId="pythonProject/qodana/2024-09-10" />
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="Lab003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -275,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725983100713</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1727193987543</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1727193987543</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
